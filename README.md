@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/simallworld](https://github.com/simallworld)
 
-- 💬 Ask me about **MERN techstack**
+- 💬 Ask me about **MERN Techstack**
 
 - 📫 How to reach me **shivamswaroop89@gmail.com**
 
