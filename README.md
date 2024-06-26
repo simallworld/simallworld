@@ -1,8 +1,8 @@
 [![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif )](https://rishavchanda.io)
 
 
-<h1 align="center">Hi 👋, I'm Shivam Swaroop</h1>
-<h3 align="center">A passionate MERN Stack Developer from Noida, India</h3>
+<h1 align="center">Hey buddy👋, I'm Shivam Swaroop</h1>
+<h3 align="center">A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from Noida, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simallworld&label=Profile%20views&color=0e75b6&style=flat" alt="simallworld" /> </p>
 
