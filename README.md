@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **shivamswaroop89@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XHmGkC-zRi_MGx-4xFkzUWibb270jirf/view?usp=drivesdk](https://drive.google.com/file/d/1XHmGkC-zRi_MGx-4xFkzUWibb270jirf/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_AKH4HqqsZPWh3CX--bhgEX97cUaOL4O/view?usp=drive_link](https://drive.google.com/file/d/1_AKH4HqqsZPWh3CX--bhgEX97cUaOL4O/view?usp=drive_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
