@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simallworld&label=Profile%20views&color=0e75b6&style=flat" alt="simallworld" /> </p>
 
-<p align="right"> <img alt="Coding" width="200" src="https://imarticus.org/blog/wp-content/uploads/2021/12/bwgg.gif"/> </p>
+<p align="center"> <img alt="Coding" width="200" src="https://imarticus.org/blog/wp-content/uploads/2021/12/bwgg.gif"/> </p>
 
 - 🔭 I’m currently working on **E-commerce**
 
