@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simallworld&label=Profile%20views&color=0e75b6&style=flat" alt="simallworld" /> </p>
 
-<p align="right"> <img alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5612AQHPo2XcY6F6qQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709671543058?e=2147483647&v=beta&t=a4rPwv4RtZzAdtxMCOnYldsqR05EbI_ssBJIH7vI8v8"/> </p>
+<p align="right"> <img alt="Coding" width="200" src="https://imarticus.org/blog/wp-content/uploads/2021/12/bwgg.gif"/> </p>
 
 - 🔭 I’m currently working on **E-commerce**
 
