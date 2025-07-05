@@ -16,6 +16,8 @@
 
 - 💬 Ask me about **MERN Techstack**
 
+- ♟️ Certified **Fullstack Developer** [https://drive.google.com/file/d/1xu8gMpo85F9vo4ZMwTYxWm-IxGphIkGm/view?usp=sharing](https://drive.google.com/file/d/1xu8gMpo85F9vo4ZMwTYxWm-IxGphIkGm/view?usp=sharing)
+
 - 📫 How to reach me **shivamswaroop89@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RuveglqHrXahprbJRur5c1FF6fi78-cy/view?usp=sharing](https://drive.google.com/file/d/1RuveglqHrXahprbJRur5c1FF6fi78-cy/view?usp=sharing)
