@@ -1,3 +1,5 @@
+[![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif )](https://rishavchanda.io)
+
 <h1 align="center">Hey buddy👋, I'm Shivam Swaroop</h1>
 <h3 align="center">A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from Noida, India</h3>
 
