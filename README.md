@@ -1,6 +1,3 @@
-[![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif )](https://rishavchanda.io)
-
-
 <h1 align="center">Hey buddy👋, I'm Shivam Swaroop</h1>
 <h3 align="center">A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from Noida, India</h3>
 
@@ -20,7 +17,9 @@
 
 - 📫 How to reach me **shivamswaroop89@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RuveglqHrXahprbJRur5c1FF6fi78-cy/view?usp=sharing](https://drive.google.com/file/d/1RuveglqHrXahprbJRur5c1FF6fi78-cy/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FfsKMYObB9Xh_PiS5-SqsDjz860JDDdN/view?usp=sharing](https://drive.google.com/file/d/1FfsKMYObB9Xh_PiS5-SqsDjz860JDDdN/view?usp=sharing)
+
+- 🔍 My Portfolio [https://portfolio-seven-chi-8svi9n30hs.vercel.app/?](https://portfolio-seven-chi-8svi9n30hs.vercel.app/?)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
