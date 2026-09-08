@@ -1,4 +1,4 @@
-
+[![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif )](https://www.ascenera.com)
 
 <h1 align="center">Hey buddy👋, I'm Shivam Swaroop</h1>
 <h3 align="center">A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from Noida, India</h3>
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **E-commerce**
 
-- 🌱 I’m currently learning **Reactjs & Typescript**
+- 🌱 I’m currently learning **System Design in depth**
 
 - 👨‍💻 All of my projects are available at [https://github.com/simallworld](https://github.com/simallworld)
 
-- 💬 Ask me about **MERN Techstack**
+- 💬 Ask me about **Tech**
 
 - ♟️ Certified **Fullstack Developer** [https://drive.google.com/file/d/1xu8gMpo85F9vo4ZMwTYxWm-IxGphIkGm/view?usp=sharing](https://drive.google.com/file/d/1xu8gMpo85F9vo4ZMwTYxWm-IxGphIkGm/view?usp=sharing)
 
